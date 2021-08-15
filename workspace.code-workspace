@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Smart_Ventilation2"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.py": "python",
+			"istream": "cpp",
+			"ostream": "cpp"
+		},
+		"google-translate.firstLanguage": "ru-ru"
+	}
+}
